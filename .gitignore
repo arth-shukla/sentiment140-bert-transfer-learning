@@ -154,3 +154,5 @@ cython_debug/
 sentiment140/
 sentiment140.zip
 .DS_Store
+checkpoints/
+select_saved_checkpoints/
