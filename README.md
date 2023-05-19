@@ -24,7 +24,7 @@ From training, it seems only about 2 epochs were necessary, as after this point 
     <img width='80%' src='./imgs/acc_loss_plot.png'>
 </div>
 
-The probabilities for each classification (run model outputs through softmax) can be used to get an expected value for the Tweet sentiment.
+The probabilities for each classification (run model outputs through softmax) can be used to get an expected value for the Tweet sentiment. Here, a negative and positive values correspond with negative and positive sentiment.
 
 <div align='center'>
     <img width='80%' src='./imgs/selected_sentiments.png'>
