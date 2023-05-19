@@ -156,3 +156,5 @@ sentiment140.zip
 .DS_Store
 checkpoints/
 select_saved_checkpoints/
+select_saved_checkpoints.zip
+wandb/
